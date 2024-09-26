@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @udayasai
-- 👀 I’m interested in electronics, embedded,IoT
+- 👀 I’m interested in electronics,embedded,IoT,ML.
 - 🌱 I’m currently doing masters in computer engineering
-- 📫 How to reach me through mail
+- 📫 you can reach me through mail udayasairamineni@gmail.com
   
 
 <!---
